@@ -7,7 +7,8 @@ const App = ()=>{
     <>
       <Header/>
       <Container/>
-      <Footer/>
+      {/* <Footer/> */}
+      
     </>
     )
 }
