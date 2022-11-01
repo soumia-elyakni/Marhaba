@@ -35,7 +35,7 @@ const Login = ()=>{
         </div>
         <div className="d-grid">
           <button type="submit" className="btn btn-primary">
-            Submit
+            Sign In
           </button>
         </div>
         <p className="forgot-password text-right">
